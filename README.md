@@ -1,0 +1,1 @@
+ spline_interpolation.c is code for cubic spline interpolation. To use this function, the start and end point and their slopes need to be provided.
